@@ -1,0 +1,34 @@
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+form {
+  width: 450px;
+}
+
+header {
+  height: 75px;
+  display: flex;
+  align-items: center;
+}
+
+header nav .navbar-brand {
+  font-size: 28px;
+  font-weight: 800;
+}
+
+li {
+  list-style: none !important;
+}
+
+table thead tr th {
+  background-color: tomato !important;
+  color: #fff !important;
+}
+
+table tr td {
+  background-color: #555 !important;
+  color: #fff !important;
+}
